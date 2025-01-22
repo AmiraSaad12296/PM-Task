@@ -1,0 +1,12 @@
+/* Hide elements by default */
+.print-only {
+    display: none;
+  }
+
+  /* Show elements only in print view */
+  @media print {
+    .print-only {
+      display: block;
+    }
+  }
+

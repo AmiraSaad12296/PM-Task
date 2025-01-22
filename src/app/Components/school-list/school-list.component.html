@@ -1,0 +1,144 @@
+<div style="padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
+  <label for="school" class="block text-sm font-medium text-gray-700">School</label>
+  <select
+    id="school"
+    [(ngModel)]="selectedSchoolId"
+    (change)="onSchoolSelect()"
+    class="block w-full mt-1 border-gray-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
+  >
+    <option [value]="null" disabled selected>Select School</option>
+    <option *ngFor="let school of schools" [value]="school.sc_Id">{{ school.name }}</option>
+  </select>
+</div>
+
+<div style="padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
+  <label for="year" class="block text-sm font-medium text-gray-700">Year</label>
+  <select id="year" [(ngModel)]="selectedYear" (change)="onYearSelect()" class="block w-full mt-1 border-gray-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" placeholder="Select Year">
+    <option [value]="null" disabled selected>Select Year</option>
+    <option *ngFor="let year of Years" [value]="year.ac_id">{{ year.datefrom }} - {{ year.dateTo }}</option>
+  </select>
+</div>
+
+<div style="padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
+  <label for="grade" class="block text-sm font-medium text-gray-700">Grade</label>
+  <select id="grade" [(ngModel)]="selectedGrade" (change)="onGradeChange()" class="block w-full mt-1 border-gray-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" placeholder="Select Grade">
+    <option [value]="null" disabled selected>Select Grade</option>
+    <option *ngFor="let grade of grades" [value]="grade.gr_Id">{{ grade.name }}</option>
+  </select>
+</div>
+
+<div style="padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
+  <label for="class" class="block text-sm font-medium text-gray-700">Class</label>
+  <select id="class" [(ngModel)]="selectedClass" (change)="onClassChange()" class="block w-full mt-1 border-gray-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" placeholder="Select Class">
+    <option [value]="null" disabled selected>Select Class</option>
+    <option *ngFor="let classItem of classes" [value]="classItem.cl__Id">{{ classItem.name }}</option>
+  </select>
+</div>
+
+
+
+<div class="mt-4 flex flex-col items-end space-y-4" style="padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
+
+  <div>
+    <button
+      (click)="getReport()"
+      class="px-6 py-2 text-white bg-orange-600 rounded-lg shadow-md hover:bg-orange-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75 transition duration-150"
+    >
+      View Report
+    </button>
+  </div>
+
+
+  <div class="flex space-x-4" *ngIf="reportData && reportData.Students && reportData.Students.length > 0">
+    <button
+      (click)="exportToExcel()"
+      class="p-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-opacity-75 transition duration-150"
+      style="background: transparent;"
+    >
+      <i class="fas fa-file-excel text-green-600 text-2xl"></i>
+    </button>
+
+
+    <button
+      (click)="exportToPDF()"
+      class="p-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-400 focus:ring-opacity-75 transition duration-150"
+      style="background: transparent;"
+    >
+      <i class="fas fa-file-pdf text-red-600 text-2xl"></i>
+    </button>
+
+    <button
+    (click)="printTable()"
+    class="p-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75 transition duration-150"
+    style="background: transparent;"
+  >
+    <i class="fas fa-print text-blue-600 text-2xl"></i>
+  </button>
+
+  </div>
+
+
+
+
+  <div class="Header print-only" *ngIf="reportData && reportData.Students && reportData.Students.length > 0">
+    <h2 >{{ reportHeaders?.reportHeaderOneEn }}</h2>
+    <h3 >{{ reportHeaders?.reportHeaderTwoEn }}</h3>
+  </div>
+  <div class="HeaderOne print-only" *ngIf="reportData && reportData.Students && reportData.Students.length > 0">
+    <img src="https://localhost:7148/api/School/images/{{ reportHeaders?.reportImage }}" alt="Report Image" style="width: 600px; height: 415px;"/>
+  </div>
+
+  <div class="Headertwo print-only" *ngIf="reportData && reportData.Students && reportData.Students.length > 0">
+    <h2 class="text-right">{{ reportHeaders?.reportHeaderOneAr }}</h2>
+    <h3 class="text-right">{{ reportHeaders?.reportHeaderTwoAr }}</h3>
+  </div>
+
+
+<table class="reportTable print-only mt-4 border-collapse border border-gray-300" *ngIf="reportData && reportData.Students && reportData.Students.length > 0">
+  <thead>
+    <tr class="bg-gray-100">
+      <th class="border border-gray-300 px-4 py-2">Class Name</th>
+      <th class="border border-gray-300 px-4 py-2">Number of Students</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr >
+      <td class="border border-gray-300 px-4 py-2" >{{selectedClassName }}</td>
+      <td class="border border-gray-300 px-4 py-2">{{ reportData.Students.length }}</td>
+    </tr>
+    <tr>
+      <td class="border border-gray-300 px-4 py-2" colspan="2">{{ currentDate  }}</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table
+  id="StudentTable"
+  *ngIf="reportData && reportData.Students && reportData.Students.length > 0"
+  class="w-full mt-4 border-collapse border border-gray-300"
+  style="padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
+  <thead>
+    <tr class="bg-gray-100">
+      <th class="border border-gray-300 px-4 py-2">No.</th>
+      <th class="border border-gray-300 px-4 py-2">Name</th>
+      <th class="border border-gray-300 px-4 py-2">Mobile</th>
+      <th class="border border-gray-300 px-4 py-2">Nationality</th>
+      <th class="border border-gray-300 px-4 py-2">Gender</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr
+      *ngFor="let student of reportData.Students; let i = index"
+      class="hover:bg-gray-100"
+    >
+      <td class="border border-gray-300 px-4 py-2 text-center">{{ i + 1 }}</td>
+      <td class="border border-gray-300 px-4 py-2 text-center">{{ student.std_Name }}</td>
+      <td class="border border-gray-300 px-4 py-2 text-center">{{ student.nationality }}</td>
+      <td class="border border-gray-300 px-4 py-2 text-center">{{ student.mobile }}</td>
+      <td class="border border-gray-300 px-4 py-2 text-center">{{ student.gender }}</td>
+    </tr>
+  </tbody>
+</table>
+
+
