@@ -1,0 +1,60 @@
+D:\MVC\Pyramakerz Task\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.BL.deps.json
+D:\MVC\Pyramakerz Task\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.BL.dll
+D:\MVC\Pyramakerz Task\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.BL.pdb
+D:\MVC\Pyramakerz Task\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.DAL.dll
+D:\MVC\Pyramakerz Task\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.DAL.pdb
+D:\MVC\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.csproj.AssemblyReference.cache
+D:\MVC\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.AssemblyInfoInputs.cache
+D:\MVC\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.AssemblyInfo.cs
+D:\MVC\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.csproj.CoreCompileInputs.cache
+D:\MVC\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramake.2540C26B.Up2Date
+D:\MVC\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.dll
+D:\MVC\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\refint\Pyramakerz Task.BL.dll
+D:\MVC\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.pdb
+D:\MVC\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\ref\Pyramakerz Task.BL.dll
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.BL.deps.json
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.BL.dll
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.BL.pdb
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.DAL.dll
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.DAL.pdb
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.csproj.AssemblyReference.cache
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.AssemblyInfoInputs.cache
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.AssemblyInfo.cs
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.csproj.CoreCompileInputs.cache
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramake.2540C26B.Up2Date
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.dll
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\refint\Pyramakerz Task.BL.dll
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.pdb
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.BL\obj\Debug\net8.0\ref\Pyramakerz Task.BL.dll
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.BL.deps.json
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.BL.dll
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.BL.pdb
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.DAL.dll
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.DAL.pdb
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.csproj.AssemblyReference.cache
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.AssemblyInfoInputs.cache
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.AssemblyInfo.cs
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.csproj.CoreCompileInputs.cache
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramake.2540C26B.Up2Date
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.dll
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\refint\Pyramakerz Task.BL.dll
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.pdb
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\ref\Pyramakerz Task.BL.dll
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.BL.deps.json
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.BL.dll
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.BL.pdb
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.DAL.dll
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.BL\bin\Debug\net8.0\Pyramakerz Task.DAL.pdb
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.csproj.AssemblyReference.cache
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.AssemblyInfoInputs.cache
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.AssemblyInfo.cs
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.csproj.CoreCompileInputs.cache
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramake.2540C26B.Up2Date
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.dll
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\refint\Pyramakerz Task.BL.dll
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\Pyramakerz Task.BL.pdb
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.BL\obj\Debug\net8.0\ref\Pyramakerz Task.BL.dll

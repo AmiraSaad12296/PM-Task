@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\MVC\\Pyramakerz Task\\Pyramakerz Task back\\Pyramakerz Task\\wwwroot\\images\\LOI-LOGO.png",
+      "PackagePath": "staticwebassets\\images\\LOI-LOGO.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Pyramakerz Task.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Pyramakerz Task.PL.props",
+      "PackagePath": "build\\Pyramakerz Task.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Pyramakerz Task.PL.props",
+      "PackagePath": "buildMultiTargeting\\Pyramakerz Task.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Pyramakerz Task.PL.props",
+      "PackagePath": "buildTransitive\\Pyramakerz Task.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

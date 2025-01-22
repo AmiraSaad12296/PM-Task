@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pyramakerz Task.PL.props" />
+</Project>

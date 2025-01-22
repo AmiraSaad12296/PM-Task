@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Ged2e2wKYMTAZgg7ttasf5w/VLwJtnClwwoxvDJIais=",
+  "Source": "Pyramakerz Task.PL",
+  "BasePath": "_content/Pyramakerz Task.PL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Pyramakerz Task.PL\\wwwroot",
+      "Source": "Pyramakerz Task.PL",
+      "ContentRoot": "D:\\MVC\\Pyramakerz Task\\Pyramakerz Task back\\Pyramakerz Task\\wwwroot\\",
+      "BasePath": "_content/Pyramakerz Task.PL",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\MVC\\Pyramakerz Task\\Pyramakerz Task back\\Pyramakerz Task\\wwwroot\\images\\LOI-LOGO.png",
+      "SourceId": "Pyramakerz Task.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC\\Pyramakerz Task\\Pyramakerz Task back\\Pyramakerz Task\\wwwroot\\",
+      "BasePath": "_content/Pyramakerz Task.PL",
+      "RelativePath": "images/LOI-LOGO.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\LOI-LOGO.png"
+    }
+  ]
+}

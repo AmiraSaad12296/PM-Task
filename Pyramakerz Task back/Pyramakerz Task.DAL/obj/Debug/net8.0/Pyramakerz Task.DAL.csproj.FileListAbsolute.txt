@@ -1,0 +1,48 @@
+D:\MVC\Pyramakerz Task\Pyramakerz Task.DAL\bin\Debug\net8.0\Pyramakerz Task.DAL.deps.json
+D:\MVC\Pyramakerz Task\Pyramakerz Task.DAL\bin\Debug\net8.0\Pyramakerz Task.DAL.dll
+D:\MVC\Pyramakerz Task\Pyramakerz Task.DAL\bin\Debug\net8.0\Pyramakerz Task.DAL.pdb
+D:\MVC\Pyramakerz Task\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.csproj.AssemblyReference.cache
+D:\MVC\Pyramakerz Task\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\Pyramakerz Task\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.AssemblyInfoInputs.cache
+D:\MVC\Pyramakerz Task\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.AssemblyInfo.cs
+D:\MVC\Pyramakerz Task\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.csproj.CoreCompileInputs.cache
+D:\MVC\Pyramakerz Task\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.dll
+D:\MVC\Pyramakerz Task\Pyramakerz Task.DAL\obj\Debug\net8.0\refint\Pyramakerz Task.DAL.dll
+D:\MVC\Pyramakerz Task\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.pdb
+D:\MVC\Pyramakerz Task\Pyramakerz Task.DAL\obj\Debug\net8.0\ref\Pyramakerz Task.DAL.dll
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.DAL\bin\Debug\net8.0\Pyramakerz Task.DAL.deps.json
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.DAL\bin\Debug\net8.0\Pyramakerz Task.DAL.dll
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.DAL\bin\Debug\net8.0\Pyramakerz Task.DAL.pdb
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.csproj.AssemblyReference.cache
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.AssemblyInfoInputs.cache
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.AssemblyInfo.cs
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.csproj.CoreCompileInputs.cache
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.dll
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.DAL\obj\Debug\net8.0\refint\Pyramakerz Task.DAL.dll
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.pdb
+D:\MVC\PM-Task\Pyramakerz Task\Pyramakerz Task.DAL\obj\Debug\net8.0\ref\Pyramakerz Task.DAL.dll
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.DAL\bin\Debug\net8.0\Pyramakerz Task.DAL.deps.json
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.DAL\bin\Debug\net8.0\Pyramakerz Task.DAL.dll
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.DAL\bin\Debug\net8.0\Pyramakerz Task.DAL.pdb
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.csproj.AssemblyReference.cache
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.AssemblyInfoInputs.cache
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.AssemblyInfo.cs
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.csproj.CoreCompileInputs.cache
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.dll
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.DAL\obj\Debug\net8.0\refint\Pyramakerz Task.DAL.dll
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.pdb
+D:\MVC\PM-Task\Pyramakerz Task back\Pyramakerz Task.DAL\obj\Debug\net8.0\ref\Pyramakerz Task.DAL.dll
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.DAL\bin\Debug\net8.0\Pyramakerz Task.DAL.deps.json
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.DAL\bin\Debug\net8.0\Pyramakerz Task.DAL.dll
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.DAL\bin\Debug\net8.0\Pyramakerz Task.DAL.pdb
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.csproj.AssemblyReference.cache
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.AssemblyInfoInputs.cache
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.AssemblyInfo.cs
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.csproj.CoreCompileInputs.cache
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.dll
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.DAL\obj\Debug\net8.0\refint\Pyramakerz Task.DAL.dll
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.DAL\obj\Debug\net8.0\Pyramakerz Task.DAL.pdb
+D:\MVC\Pyramakerz Task\Pyramakerz Task back\Pyramakerz Task.DAL\obj\Debug\net8.0\ref\Pyramakerz Task.DAL.dll
